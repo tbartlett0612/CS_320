@@ -1,1 +1,7 @@
-# CS_320
+# CS_320 - Software Test Automation and QA
+## How can I ensure that my code, program, or software is functional and secure?
+I can ensure my code, program, and software is functional by performing different types of testing including funtional and static testing. Writing good funtional tests such as the JUnit tests we did for this class is a good way to test for the functionality based on the requirements of the project. Also, doing static testing such as Vulnerability Dependency Checks can help ensure the code is secure.
+## How do I interpret user needs and incorporate them into a program?
+The easiest way I know is break everything down into it's most simplest form that can be measured (actully able to be checked for). For example, if a client says their needs to be a name filed that has to be filled, can not be longer than 20 characters, and is awesome; there are some parts of this that can be used to determine the requirement. First you have that the field can not be null bedcause it needds to be filled, and secondly you have that it can not be more than 20 characters in length. These can be tested and are good requirements. The last part is not something that can be included as part of the requirement as it is subjective and can not be tested.
+## How do I approach designing software?
+The first thing I do is break down the needs into requirements as described above. Next create class and/or procedural diagrams that starts to provide a base of what the structure of the program will look like and how the different parts interact with eachother. 
